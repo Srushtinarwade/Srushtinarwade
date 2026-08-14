@@ -11,7 +11,7 @@ I enjoy building practical AI systems, solving challenging DSA problems, and und
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
-- 🔬 **Research Intern at IIT Roorkee**, working on **traffic simulation, road safety, and data-driven vehicle behavior modeling**
+- 🔬 **Experience - Research Intern at IIT Roorkee**, worked on **traffic simulation, road safety, and data-driven vehicle behavior modeling**
 - 🤖 Interested in **Machine Learning, Deep Learning & Generative AI**
 - 🧠 Strong interest in **LLMs, Transformers, RAG and NLP**
 - 💻 Solving **Data Structures & Algorithms** problems on LeetCode
