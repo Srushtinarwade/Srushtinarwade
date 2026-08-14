@@ -86,14 +86,6 @@ Computer vision system designed to analyze student attention using a webcam.
 
 ---
 
-## 🧠 LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/srushtinarwade?theme=dark&ext=heatmap" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - Advanced Data Structures & Algorithms
