@@ -66,7 +66,7 @@ Reimplemented **GPT-2 Small (124M parameters)** from scratch using PyTorch.
 - Temperature Scaling
 - Fine-tuning for downstream tasks
 
-🔗 **[View Project]([YOUR_GITHUB_PROJECT_LINK](https://github.com/Srushtinarwade/GPT-2-Architecture-Reimplementation-and-Fine-Tuning))**
+🔗 **[View Project]((https://github.com/Srushtinarwade/GPT-2-Architecture-Reimplementation-and-Fine-Tuning))**
 
 ---
 
