@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Srushti+Narwade+%F0%9F%91%8B" alt="Hi there, I'm Srushti Narwade" />
 </p>
-Artificial Intelligence & Machine Learning Engineer | Python | Deep Learning | LLMs
+### Artificial Intelligence & Machine Learning Engineer | Python | Deep Learning | LLMs ###
 
 I'm a recent B.Tech graduate in **Artificial Intelligence & Machine Learning** with a strong interest in **Machine Learning, Deep Learning, Data Science, Computer Vision, NLP, and Generative AI**.
 
