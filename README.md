@@ -99,10 +99,11 @@ Computer vision system designed to analyze student attention using a webcam.
 
 ## 🤝 Connect With Me
 
-<p align="left">
-
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/srushti-narwade-8469b0255/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/[YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/srushti-narwade-8469b0255/)/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto: srushtinarwade0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
