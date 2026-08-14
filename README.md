@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Srushti+Narwade+%F0%9F%91%8B;A+Research+Student+with+experience+in+Machine+Learning+%26+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Srushti+Narwade+%F0%9F%91%8B;A+Research+Student+with+experience+in+Machine+Learning" alt="Typing SVG" />
 </p>
 
 ### Artificial Intelligence & Machine Learning Engineer | Python | Deep Learning | LLMs
